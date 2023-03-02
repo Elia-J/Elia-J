@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elia-J)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elia-J)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elia-J)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elia-J&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **Elia-J/Elia-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
