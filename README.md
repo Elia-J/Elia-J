@@ -1,4 +1,4 @@
-![Cover Image](https://res.cloudinary.com/eliaj2/image/upload/v1721313950/Covers/nzuonpu7ykpx68rgbhjo.png)
+![Cover Image](https://res.cloudinary.com/eliaj2/image/upload/v1721314032/Covers/kk6bnewvlbq6j0584gdz.png)
 
 # <img src="./icons/waving-hand.png" alt="Waving Hand" width="25" height="25" /> Hello & Welcome 
 
