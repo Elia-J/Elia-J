@@ -1,7 +1,7 @@
 # <img src="./icons/waving-hand.png" alt="Waving Hand" width="25" height="25" /> Hello & Welcome 
 
 
-I am Elia Jabbour, a computer science student at Utrecht University. I am passionate about software development & engineering, and interested in exploring the potential of artificial intelligence (AI). I enjoy experimenting with new technologies and frameworks and use my creativity to design and develop innovative solutions. I am always looking for new opportunities to learn and grow. Check out my [portfolio](https://link.eliajabbour.com/github-to-portfolio) to see some of my projects and achievements.
+I am Elia Jabbour, a computer science student at Utrecht University. I am passionate about software development & engineering, and interested in exploring the potential of artificial intelligence (AI). I enjoy experimenting with new technologies and frameworks and use my creativity to design and develop innovative solutions. I am always looking for new opportunities to learn and grow. Check out <a href="https://link.eliajabbour.com/github-to-portfolio" target="_blank">my portfolio</a> to see some of my projects and achievements.
 
 
 <!-- 
