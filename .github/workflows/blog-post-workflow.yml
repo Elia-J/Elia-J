@@ -16,5 +16,5 @@ jobs:
       - name: Pull in eliajabbour.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://eliaportfolio.vercel.app/rss"
+          feed_list: "https://www.eliajabbour.com/rss"
           max_post_count: 3
