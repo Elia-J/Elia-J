@@ -14,9 +14,9 @@ I am Elia Jabbour, a computer science student at Utrecht University. I am passio
 # React blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Git Large File Storage &lpar;LFS&rpar; to Push Large Files to GitHub](https://www.eliajabbour.com/blog/how-to-use-git-large-file-storage-lfs-to-push-large-files-to-github)
 - [How to Install and Use Firebase Genkit with Ollama: A Step-by-Step Guide](https://www.eliajabbour.com/blog/how-to-install-and-use-firebase-genkit-with-ollama-a-step-by-step-guide)
 - [How to Run Large Language Models on Your Laptop with Ollama: A Step-by-Step Guide](https://www.eliajabbour.com/blog/how-to-run-large-language-models-on-your-laptop-with-ollama-a-step-by-step-guide)
-- [The Future of AI: Inside Tesla&#39;s Dojo Supercomputer and Its Revolutionary Architecture](https://www.eliajabbour.com/blog/the-future-of-ai-inside-teslas-dojo-supercomputer-and-its-revolutionary-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 ## <img src="./icons/high-voltage.png" alt="Waving Hand" width="18" height="18" /> Contact
