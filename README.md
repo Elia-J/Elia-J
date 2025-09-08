@@ -11,7 +11,7 @@ I am Elia Jabbour, a computer science student at Utrecht University. I am passio
 
 -->
 
-# React blog posts
+# Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Use Git Large File Storage &lpar;LFS&rpar; to Push Large Files to GitHub](https://www.eliajabbour.com/blog/how-to-use-git-large-file-storage-lfs-to-push-large-files-to-github)
