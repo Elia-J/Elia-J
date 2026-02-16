@@ -14,9 +14,9 @@ I am Elia Jabbour, a master's student in Computer Science at TU Delft. I am pass
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Git Large File Storage &lpar;LFS&rpar; to Push Large Files to GitHub](https://www.eliajabbour.com/blog/how-to-use-git-large-file-storage-lfs-to-push-large-files-to-github)
-- [How to Install and Use Firebase Genkit with Ollama: A Step-by-Step Guide](https://www.eliajabbour.com/blog/how-to-install-and-use-firebase-genkit-with-ollama-a-step-by-step-guide)
-- [How to Run Large Language Models on Your Laptop with Ollama: A Step-by-Step Guide](https://www.eliajabbour.com/blog/how-to-run-large-language-models-on-your-laptop-with-ollama-a-step-by-step-guide)
+- [A Smarter Way to Understand Code: A Look at Google&#39;s New Code Wiki](https://www.eliajabbour.com//blog/a-smarter-way-to-understand-code-a-look-at-googles-new-code-wiki)
+- [The 2025 Guide to Picking the Right Database](https://www.eliajabbour.com//blog/the-2025-guide-to-picking-the-right-database)
+- [How to Use Git Large File Storage &lpar;LFS&rpar; to Push Large Files to GitHub](https://www.eliajabbour.com//blog/how-to-use-git-large-file-storage-lfs-to-push-large-files-to-github)
 <!-- BLOG-POST-LIST:END -->
 
 ## <img src="./icons/high-voltage.png" alt="Waving Hand" width="18" height="18" /> Contact
